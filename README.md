@@ -17,7 +17,7 @@ To write a program to implement the the Logistic Regression Model to Predict the
 
 ## Program:
 ```
-/*
+
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
 Developed by: NITEESH M
 RegisterNumber: 212222230098
@@ -74,7 +74,7 @@ classification_report1 = classification_report(y_test,y_pred)
 classification_report1
 
 lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
-*/
+
 ```
 
 ## Output:
